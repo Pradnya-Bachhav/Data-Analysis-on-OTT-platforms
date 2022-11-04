@@ -12,9 +12,6 @@ in this field. Factors mainly the geographic location, genre of the film, recogn
 films directed by that director and many more are to be paid much attention while working in this and which we have very well
 demonstrated here.
 
-## The architecture 
-![1_itCfI2RiVvrNB34WHMG9_Q](https://user-images.githubusercontent.com/114144133/199948374-055ede45-6c73-4c84-8130-16abecd1ed06.png)
-
 ## Long description
 In the modern world there is a need for a recommendation system as users have been exposed to a large number of multimedia
 contents with the rise of OTT platforms such as Netflix, Disney Plus and many more. Many recommendation systems are available
