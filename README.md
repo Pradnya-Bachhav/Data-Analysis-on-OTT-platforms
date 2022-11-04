@@ -11,9 +11,8 @@ as well as the parameters being considered and evaluated will eventually be a pr
 in this field. Factors mainly the geographic location, genre of the film, recognition of actor and director, the past history of the
 films directed by that director and many more are to be paid much attention while working in this and which we have very well
 demonstrated here.
-## Demo video
 
-## The architecture
+## The architecture 
 ![1_itCfI2RiVvrNB34WHMG9_Q](https://user-images.githubusercontent.com/114144133/199948374-055ede45-6c73-4c84-8130-16abecd1ed06.png)
 
 ## Long description
