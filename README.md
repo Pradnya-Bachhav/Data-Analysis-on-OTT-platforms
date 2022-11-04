@@ -14,6 +14,7 @@ demonstrated here.
 ## Demo video
 
 ## The architecture
+![1_itCfI2RiVvrNB34WHMG9_Q](https://user-images.githubusercontent.com/114144133/199948374-055ede45-6c73-4c84-8130-16abecd1ed06.png)
 
 ## Long description
 In the modern world there is a need for a recommendation system as users have been exposed to a large number of multimedia
